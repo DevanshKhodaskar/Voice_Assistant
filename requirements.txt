@@ -1,0 +1,10 @@
+livekit-agents[groq]~=1.0
+livekit-plugins-noise-cancellation~=0.2
+python-dotenv
+livekit-agents
+flask
+flask-cors
+flask[async]
+uvicorn
+livekit-api
+

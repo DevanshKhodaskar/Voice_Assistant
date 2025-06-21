@@ -1,0 +1,26 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+env/
+
+
+# Environment variables
+.env
+.python-version
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+
+# Logs and temp
+*.log
+temp.txt
+
+# Lock files
+uv.lock
